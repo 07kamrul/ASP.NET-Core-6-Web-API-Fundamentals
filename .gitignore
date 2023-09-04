@@ -19,3 +19,4 @@
 /obj/CityInfo.API.csproj.nuget.dgspec.json
 /obj/project.assets.json
 /obj/project.nuget.cache
+/bin/Debug/net6.0/appsettings.json
