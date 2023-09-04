@@ -16,7 +16,7 @@ namespace CityInfo.API.Controllers
                 ?? throw new System.ArgumentNullException(nameof(fileExtensionContentTypeProvider));
 
         }
-
+         
         [HttpGet("{fileId}")]
         public ActionResult GetFile(string fileId)
         {
