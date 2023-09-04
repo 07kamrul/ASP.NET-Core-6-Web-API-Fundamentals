@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net6.0/CityInfo.API.pdb
+/bin/
+/bin/Debug/net6.0/CityInfo.API.exe
+*.exe
+*.pdb
+*.manifest
+*.cache
+*.json
+*.dll
+/obj/Debug/net6.0/
+/obj/
+/obj/Debug/net6.0/apphost.exe
+/obj/Debug/net6.0/CityInfo.API.dll
+/obj/Debug/net6.0/CityInfo.API.pdb
+/obj/CityInfo.API.csproj.nuget.dgspec.json
+/obj/project.assets.json
+/obj/project.nuget.cache
